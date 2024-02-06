@@ -50,5 +50,5 @@ Contributors
 
 Simon Claude
 
-This project was undertaken as part of the "Data Science and Engineering Fullstack" program offered by Jedha. Its aim was to fulfill a component of the "Concepteur Développeur en Science des Données" certification.
+This project was undertaken as part of the "Data Science and Engineering Fullstack" program offered by Jedha. Its aim was to fulfill a component of the "Machine Learning Engineer" certification.
 
